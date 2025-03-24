@@ -29,7 +29,7 @@ Also, KSqlDB was used for stream processing and the processed data is then sent 
 
 1. Clone the repository.
    ```bash
-   git clone https://github.com/airscholar/YoutubeAnalytics.git
+   git clone https://github.com/biswajeet0192/YoutubeAnalytics.git
    ```
 
 2. Install Python dependencies.
